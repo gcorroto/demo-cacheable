@@ -59,6 +59,11 @@
  */
 import 'zone.js/dist/zone';  // Included with Angular CLI.
 
+/*
+* reflect-metadata for decorator type inspector
+*/
+
+// import 'reflect-metadata';
 
 /***************************************************************************************************
  * APPLICATION IMPORTS
